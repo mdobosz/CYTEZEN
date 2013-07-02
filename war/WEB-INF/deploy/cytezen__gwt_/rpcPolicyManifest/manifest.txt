@@ -1,0 +1,4 @@
+# Module cytezen__gwt_
+# RPC service class, partial path of RPC policy file
+com.gwt.cytezen.client.FacebookService, 255B8491FB412FA0AF54FBF612CD0ED5.gwt.rpc
+com.gwt.cytezen.client.GoogleService, E639A1E389A71A71A01368E054956710.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.gwt.cytezen.client.FacebookService
+path: 255B8491FB412FA0AF54FBF612CD0ED5.gwt.rpc

@@ -1,0 +1,2 @@
+serviceClass: com.gwt.cytezen.client.GoogleService
+path: E639A1E389A71A71A01368E054956710.gwt.rpc
